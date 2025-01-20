@@ -1,5 +1,8 @@
 package LC1422;
 
+/**
+ * LC 1422. Maximum Score After Splitting a String
+ */
 public class Solution {
     public int maxScore(String s) {
         char[] chars = s.toCharArray();
