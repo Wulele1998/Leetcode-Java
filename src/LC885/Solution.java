@@ -5,7 +5,9 @@ public class Solution {
         int[][] dirs = new int[][] {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
         int[][] res = new int[rows * cols][2];
 
-        
 
+        // TODO
+        
+        return res;
     }
 }
